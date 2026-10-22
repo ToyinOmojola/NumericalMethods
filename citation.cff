@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Omojola"
+  given-names: "Toyin"
+  orcid: "https://orcid.org/0000-0001-9376-6977"
+title: "steady-state-kinetic-model"
+version: 1.0.1
+doi: 10.5281/zenodo.23569863
+date-released: 2026-10-22
+url: "https://github.com/ToyinOmojola/steady-state-kinetic-model"
