@@ -1,1 +1,1 @@
-# NumericalMethods
+# steady-state-kinetic-model
